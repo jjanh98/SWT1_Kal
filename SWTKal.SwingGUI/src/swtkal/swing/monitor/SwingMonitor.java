@@ -10,6 +10,7 @@ import java.util.*;
 import swtkal.monitor.Monitor;
 import swtkal.swing.elements.person.EditUserControl;
 
+//comment
 public class SwingMonitor extends Monitor implements ActionListener
 {
 	public static void main(String[] args)
